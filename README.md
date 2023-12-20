@@ -14,3 +14,14 @@
 ```
 17 %% 5
 ```
+
+### Data types
+Logical, Integer, Numeric, or Character
+```
+Numeric > Integer > Logical
+```
+
+### Function
+```
+class(<var>) # return data types
+```
